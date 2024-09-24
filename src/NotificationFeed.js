@@ -13,7 +13,7 @@ const NotificationFeed = () => {
             <Avatar style={{cursor:'pointer'}}/>
             </div>
             <div className='notificationFeed__middle'>
-                <p style={{cursor:'pointer'}}>Congratulate Shuhanur Rahman for starting a new position as Junior Quality Control Engineer at United Surgical...</p>
+                <p style={{cursor:'pointer'}}>Congratulate Jane Doe...</p>
                 <button>View event</button>
             </div>
             <div className='notificationFeed__right'>

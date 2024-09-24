@@ -43,9 +43,9 @@ const Jobs = () => {
                 <div className='jobsBottom__top'>
                     <h1 style={{fontSize:16,fontWeight:500}}>Jobs Searches</h1>
                     <div className='jobsBottomTop__option'>
-                        <JobsBottomTopOption developer='react' location='bangladesh'/>
-                        <JobsBottomTopOption developer='flutter developer' location='rajshahi,bangladesh'/>
-                        <JobsBottomTopOption developer='react native' location='pabna,bangladesh'/>
+                        <JobsBottomTopOption developer='react' location='lagos'/>
+                        <JobsBottomTopOption developer='flutter developer' location='benin,edo'/>
+                        <JobsBottomTopOption developer='react native' location='ibadan,oyo'/>
                     </div>
                 </div>
                 <div className='jobsBottom__middle'>
@@ -66,13 +66,8 @@ const Jobs = () => {
                     <div className='jobsBottomLast__option'>
                         <JobsBottomLastOption
                             image='https://media-exp1.licdn.com/dms/image/C4D0BAQGYECbt8La6hQ/company-logo_200_200/0/1615221424934?e=1625097600&v=beta&t=tpg0d6fcsQf2Yl95CyH2PChga15kpnR5_j7MOKesElk'
-                            location='Dhaka,Bangladesh'
+                            location='Ibadan,Oyo'
                             profession='Data Collection'
-                        />
-                        <JobsBottomLastOption
-                            image='https://media-exp1.licdn.com/dms/image/C4D0BAQGYECbt8La6hQ/company-logo_200_200/0/1615221424934?e=1625097600&v=beta&t=tpg0d6fcsQf2Yl95CyH2PChga15kpnR5_j7MOKesElk'
-                            location='Rajshahi,Bangladesh'
-                            profession='Data Entry Specialist'
                         />
                     </div>
                     <h1 className='jobsBottomLastOption__h1' style={{alignSelf:'center',fontSize:15,fontWeight:500,cursor:'pointer',color:'#2476c8',marginTop:20}}>Search for more job</h1>
